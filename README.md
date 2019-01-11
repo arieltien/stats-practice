@@ -1,1 +1,1 @@
-# stats-practice
+# Stats-Practice
